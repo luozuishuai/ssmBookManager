@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="com.fasterxml.jackson.databind-2.10.0.LIFERAY-PATCHED-1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/com.fasterxml.jackson.databind-2.10.0.LIFERAY-PATCHED-1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
